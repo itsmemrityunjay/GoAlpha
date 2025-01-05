@@ -1,0 +1,995 @@
+@media only screen and (max-width: 1920px) {
+
+    footer {
+        padding: 320px 0 20px;
+    }
+
+}
+
+@media only screen and (max-width: 1680px) {
+
+    footer {
+        padding: 220px 0 20px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 1440px) {
+
+    footer {
+        padding: 160px 0 20px;
+    }
+
+}
+
+@media only screen and (max-width:800px) {
+    .fullsecreen {
+        height: auto
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .navmenu ul li img {
+        max-width: 75px;
+    }
+
+    .navmenu ul li a {
+        font-size: 14px;
+        line-height: 60px;
+        padding: 4px 5px 3px;
+        position: relative;
+        z-index: 99;
+    }
+
+    .mainheading,
+    .registration-heading h3 {
+        font-size: 2rem;
+    }
+
+    .registration::after,
+    .exhibit::before,
+    .exhibit::after,
+    footer::after,
+    .gallerygrid::after,
+    .home .mainheading::before,
+    .beforeaftr::after,
+    .beforeaftr::before,
+    .beforeaftr::after,
+    .frog::before,
+    .moon .container::after,
+    .parents .mainheading::after,
+    .host .mainheading::before {
+        display: none;
+    }
+
+    .moon::before {
+
+        height: 100px;
+
+        width: 100px;
+
+        top: -140px;
+
+    }
+
+    .navmenu ul li a.active {
+
+        border: #00AEEF 1px solid;
+
+        border-radius: 6px;
+
+    }
+
+    .navmenu ul li a:hover {
+        border-radius: 6px;
+    }
+
+    section.gallerysec.Veneer.position-relative {
+
+        padding-top: 40px;
+
+    }
+
+    .galleryborder {
+        padding: 7px;
+    }
+
+    .host_form p.bigfont {
+
+        font-size: 16px;
+
+    }
+
+    .ext_pad {
+
+        padding: 30px 0 0;
+
+    }
+
+    .festivals {
+
+        padding: 60px 0px 30px;
+
+    }
+
+    .banner {
+        min-height: 100px;
+    }
+
+    .contactinfo li,
+    .footernav li a,
+    .footernav li {
+
+        font-size: 18px;
+
+    }
+
+    .navhead+ul {
+
+        float: left;
+
+        width: 40%;
+
+    }
+
+    .parents {
+
+        padding: 50px 0px;
+
+    }
+
+    .marginspace {
+        margin-top: 10px;
+    }
+
+    .chatwithus {
+
+        margin-bottom: 20px;
+
+        float: left;
+
+        width: 60%;
+
+    }
+
+
+
+    .chatinfo h4 {
+
+        font-size: 13px;
+
+    }
+
+
+
+    .chatinfo h4 span.d-block {
+
+        font-size: 11px;
+
+    }
+
+
+
+    .navhead+ul li {
+
+        margin: 0 1px;
+
+    }
+
+
+
+    .chatwithus:before {
+
+        width: 25px;
+
+        height: 25px;
+
+        top: 5px;
+
+    }
+
+
+
+    .chatinfo::before {
+
+        width: 15px;
+
+        height: 15px;
+
+    }
+
+
+
+    .chatinfo {
+
+        margin-top: -10px;
+
+    }
+
+    .navhead+ul li a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .squarimg {
+        height: 180px;
+    }
+
+    .faqs::after {
+
+        right: 0px;
+
+        width: 47px;
+
+        height: 20%;
+
+        top: -90px;
+
+    }
+
+    .font22 {
+
+        font-size: 16px;
+
+    }
+
+    .hrimg {
+        height: 120px;
+    }
+
+    .Fest::before {
+        height: 20px;
+
+        width: 20px;
+    }
+
+    .Fest {
+        padding-left: 5px;
+
+        font-size: 20px;
+
+    }
+
+    .booknow a {
+
+        width: auto;
+
+        margin-top: 20px;
+
+    }
+
+    .restornow {
+
+        text-align: center;
+
+        width: 100%;
+
+        display: inline-block;
+
+    }
+
+
+
+    .restornow .btn-orange {
+
+        width: auto !important;
+
+        text-align: center;
+
+        margin: auto;
+
+        float: none !important;
+
+        font-size: 20px;
+
+    }
+
+    .bg-white.roundcorner {
+
+        margin-top: 20px;
+
+    }
+
+    .navmenu ul:after {
+        display: none;
+    }
+
+    .navmenu ul:before {
+
+        width: 50px;
+
+        height: 40px;
+
+        left: -10px;
+
+    }
+
+    header::after {
+
+        width: 50px;
+
+        height: 30px;
+
+        top: 5px;
+
+    }
+
+    .festivals .mainheading::after {
+
+        height: 30px;
+
+        width: 30px;
+
+        top: 0px;
+
+        right: -35px;
+
+    }
+
+    .moon .mainheading::before {
+
+        height: 56px;
+        width: 90px;
+        left: -31px;
+        top: -33px;
+    }
+
+    .glrytitle {
+
+        font-size: 15px !important;
+
+    }
+
+    .moon::after {
+
+        height: 120px;
+
+        width: 60px;
+
+        right: 20px;
+
+        bottom: -115px;
+
+    }
+
+    .parents .mainheading::after {
+
+        height: 70px;
+
+        width: 70px;
+
+        top: 70px;
+
+        right: 0;
+
+    }
+
+    .parents::after {
+
+        height: 150px;
+
+        width: 70px;
+
+        top: auto;
+
+        left: 20px;
+
+        bottom: -97px;
+
+    }
+
+    .registration-heading {
+
+        text-align: center;
+
+    }
+
+
+
+    .registration {
+
+        padding: 20px 0px;
+
+    }
+
+    .btn-orange {
+
+        width: 100%;
+
+    }
+
+    footer {
+        background: url(../images/mobile.png) no-repeat top center;
+        background-size: cover;
+        padding: 90px 0px 0px;
+    }
+
+    .footerlogo img {
+
+        max-width: 100px;
+
+        margin-bottom: 20px;
+
+    }
+
+    .home .locationpic {
+        width: 250px
+    }
+
+    .banglorefestr,
+    .ahemdabadfest,
+    .ludhianafest,
+    .jaipurfest {
+        background-size: cover;
+    }
+
+
+
+    .footernav {
+
+        margin: 20px 0px;
+
+    }
+
+    .cat_data {
+        padding: 0px;
+    }
+
+    .navhead,
+    .navhead+ul {
+
+        padding-left: 0;
+
+    }
+
+    .font18 {
+        font-size: 16px;
+    }
+
+    .exhibit {
+        font-size: 2rem;
+    }
+
+    .bigimg {
+
+        height: 190px;
+
+        background: #d9d9d9;
+
+        border-radius: 10px;
+
+        margin: 40px 0px 10px;
+
+        box-shadow: 0 0 5px #ddd;
+
+    }
+
+    .subheading {
+
+        font-size: 1.5rem;
+
+    }
+
+    .bigimg img {
+
+        max-width: 50px;
+
+        margin: auto;
+
+    }
+
+    .applynows::after {
+        right: -80px
+    }
+
+    .rabbit::after {
+        right: 3px
+    }
+
+    .gallrypic {
+        height: 60px
+    }
+
+    .gallrypicmid {
+
+        height: 124px;
+
+    }
+
+    .morepics {
+
+        position: absolute;
+
+        top: auto;
+
+        right: -10px;
+
+        left: auto;
+
+        bottom: 35px;
+
+        width: 52%;
+
+        text-align: center;
+
+        color: #fff;
+
+        z-index: 9;
+
+        font-size: 12px;
+
+        line-height: 11px;
+
+        height: 180px;
+
+    }
+
+    .gallerythum {
+
+        margin-bottom: 10px;
+
+    }
+
+    .galllerimages {
+
+        margin-bottom: 0px;
+
+    }
+
+    .blubgnew {
+        padding: 40px 0px;
+    }
+
+    .padding50 {
+
+        padding: 30px 10px;
+
+    }
+
+    .aboutkukdukoo::after {
+
+        height: 90px;
+
+    }
+
+    .dragonbefore::before {
+        height: 50px
+    }
+
+    .giraf::after {
+
+        height: 100%;
+
+    }
+
+    .pump::after {
+
+        height: 420px;
+
+        bottom: 0;
+
+    }
+
+    .contactfrm .p-5 {
+
+        padding: 40px 20px !important;
+
+    }
+
+    .contactfrm {
+
+        margin: 100px auto 50px;
+
+    }
+
+
+
+    .schedule .mainheading::before {
+
+        width: 52px;
+
+        height: 60px;
+
+        left: -60px;
+
+    }
+
+    .schedule .mainheading {
+        padding-left: 0;
+    }
+
+    .home {
+        padding: 50px 0;
+    }
+
+    .imageoverly::before {
+        display: block;
+    }
+
+    .locationpic {
+        width: 180px;
+        margin: 10px auto
+    }
+
+    .evedate {
+
+        font-size: 1.1rem;
+
+        font-weight: 700;
+
+        line-height: 26px;
+
+    }
+
+    .gallerysec .mainheading::before {
+
+        background: url(../images/Char-3-1.png) no-repeat;
+        height: 56px;
+        width: 90px;
+        left: -31px;
+        top: -33px;
+
+    }
+
+    .schedule .col-lg-6.col-md-6.col-sm-12.col-12 {
+
+        padding: 0;
+
+    }
+
+    .p-mobileright {
+
+        padding-left: 2px;
+
+    }
+
+
+
+    .p-mobile {
+
+        padding-right: 2px;
+
+    }
+
+    .expectedEvents {
+
+        height: 188px;
+
+    }
+
+    .flipCardBack p {
+        font-size: 16px;
+        text-align: center;
+        text-align-last: center
+    }
+
+    .flipDesc {
+        padding: 10px;
+    }
+
+    footer .container {
+
+        margin-top: 0;
+
+    }
+
+    .enq::after {
+
+        right: 0px;
+
+        width: 80px;
+
+    }
+
+    .cock::after,
+    .cock::before {
+        width: 60px
+    }
+
+    .fontbig {
+
+        font-size: 1.7rem;
+
+        line-height: 30px;
+
+    }
+
+    .experience .mainheading::before {
+
+        left: 60px;
+
+        right: auto;
+
+        top: -30px;
+
+    }
+
+    .experience .mainheading::after {
+
+        right: 50px;
+
+        top: -29px;
+
+    }
+
+    h2.mainheading.Veneer.position-relative.mb-5 {
+
+        margin-bottom: 20px !important;
+
+    }
+
+    .blubgnew .fontbig {
+
+        line-height: 2rem;
+
+        font-size: 1.4rem;
+
+    }
+
+    .pump::before {
+
+        width: 80px;
+
+        height: 90px;
+
+        top: -50px;
+
+        left: 15px;
+
+    }
+
+    .align {
+        padding: 5px 0px;
+    }
+
+    .align img {
+        height: auto;
+    }
+
+    .recrumentheading.mt-5.mb-5 {
+
+        margin: 20px auto !important;
+
+    }
+
+    .cat_inner {
+
+        padding: 25px 0;
+
+    }
+
+
+
+
+
+    .checkbox_text p {
+        font-size: 20px;
+    }
+
+    .main span.geekmark {
+
+        position: absolute;
+
+        top: 5px;
+
+        left: 0;
+
+        background: #F5FBFF;
+
+        width: 20px;
+
+        height: 20px;
+
+        border-radius: 5px;
+
+        border: 3px solid #00AEEF;
+
+    }
+
+    .main input:checked~span.geekmark:after {
+
+        width: 12px;
+
+        height: 6px;
+
+        top: 45%;
+
+        left: 4px;
+
+        transform: translateY(-50%) rotate(-42deg);
+
+        border-left: 3px solid #fff;
+
+        border-bottom: 3px solid #fff;
+
+    }
+
+    .center_text p {
+
+        font-size: 16px;
+
+        font-weight: 600;
+
+        text-transform: capitalize;
+
+    }
+
+    .host_form .rounded {
+        padding: 18px !important;
+    }
+
+    .main_banner_text p {
+
+        font-size: 15px;
+
+        line-height: normal;
+
+        font-family: 'Signika';
+
+        color: #fff;
+
+        margin-top: 0;
+
+    }
+
+    .main_banner_text {
+
+        position: absolute;
+
+        bottom: 0;
+
+        left: 0;
+
+        transform: none;
+
+        text-align: center;
+
+        right: 0;
+
+        padding: 0px 15px;
+
+    }
+
+    .main_banner_text h1 {
+
+        color: #fff;
+
+        font-size: 30px;
+
+        line-height: 27px;
+
+        letter-spacing: 0.2px;
+
+        font-family: 'Veneer';
+
+    }
+
+    .rgth_sec p {
+
+        position: absolute;
+
+        bottom: 10px;
+
+        left: 50%;
+
+        transform: translateX(-50%);
+
+        color: #fff;
+
+        font-size: 13px;
+
+        font-weight: 500;
+
+        margin: 0;
+
+        width: auto;
+
+        line-height: 16px;
+
+    }
+
+    .cat_data img {
+        margin: auto;
+        width: 280px
+    }
+
+    .cat_inner .cat_main {
+
+        padding: 75px 0;
+
+    }
+
+    .eventdate {
+
+        font-size: 2.5rem;
+
+        margin-bottom: 0.5rem;
+
+    }
+
+    .flipCardBack {
+        text-align: center;
+    }
+
+    .flipCardFront .glrytitle {
+        font-size: 18px !important;
+    }
+
+}
+
+
+
+
+
+@media only screen and (max-width: 500px) {
+
+    .cat_inner,
+    .cat_inner .cat_main {
+
+        padding: 15px 0;
+
+    }
+
+    .cat_inner .cat_main {
+
+        padding: 30px 0;
+
+    }
+
+    .cat_data img {
+        margin: auto;
+        width: 130px
+    }
+
+}
+
+@media only screen and (max-width: 425px) {
+
+    .expectedEvents {
+
+        height: 167px;
+
+    }
+
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 410px) {
+
+    .expectedEvents {
+
+        height: 146px;
+
+    }
+
+}
+
+@media only screen and (max-width: 375px) {
+
+    .expectedEvents {
+
+        height: 123px;
+
+    }
+
+    .cat_data img {
+        margin: auto;
+        width: 120px
+    }
+
+    .cat_inner .cat_main {
+
+        padding: 15px 0;
+
+    }
+
+}

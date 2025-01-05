@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_3" width="28" height="20">
+
+<defs>
+    <clipPath  id="1">
+
+    <path id=""  clip-rule="evenodd" transform="matrix(1 0 0 1 0 0)"  d="M0 15L0 0L0 0L21.75 0L21.75 0L21.75 15L21.75 15L0 15z" />    </clipPath>
+</defs>
+
+<g transform="matrix(1.3333 0 0 1.3333 0 0)">
+	<g clip-path="url(#1)" >
+    <path id=""  transform="matrix(1 0 0 -1 0 15)"  d="M20.37195 0L20.37195 0L20.37195 0L21.75 1.477499L21.75 1.477499L10.875 15L10.875 15L0 1.477499L0 1.477499L1.37802 0L1.37802 0L10.875 11.80875L10.875 11.80875L20.37195 0z" stroke="#FFFFFF" stroke-width="1" fill="#FFFFFF" fill-rule="nonzero" />
+	</g>
+</g>
+</svg>
