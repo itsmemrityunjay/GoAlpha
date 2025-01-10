@@ -61,9 +61,9 @@ header::after {
 
     background: url(../images/Asset_1-3.png) no-repeat;
 
-    width: 120px;
+    width: 150px;
 
-    height: 90px;
+    height: 160px;
 
     background-size: contain;
 
@@ -71,7 +71,7 @@ header::after {
 
     right: 0;
 
-    top: 20px;
+    top: 10px;
 
 }
 
@@ -812,7 +812,7 @@ li.slick-active button {
     width: 300px;
     left: auto;
     background-size: contain;
-    top: -180px;
+    top: 10px;
     right: 0;
     bottom: auto;
     margin: auto;
