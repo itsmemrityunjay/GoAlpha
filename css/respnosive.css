@@ -71,8 +71,6 @@
 
         width: 100px;
 
-        top: -140px;
-
     }
 
     .navmenu ul li a.active {
@@ -301,20 +299,17 @@
     .navmenu ul:before {
 
         width: 50px;
-
         height: 40px;
-
         left: -10px;
+        top: 30px;
 
     }
 
     header::after {
 
-        width: 50px;
-
-        height: 30px;
-
-        top: 5px;
+        width: 68px;
+        height: 69px;
+        top: 10px;
 
     }
 
@@ -332,10 +327,10 @@
 
     .moon .mainheading::before {
 
-        height: 56px;
-        width: 90px;
-        left: -31px;
-        top: -33px;
+        height: 23px;
+        width: 13px;
+        left: -8px;
+        top: -7px;
     }
 
     .glrytitle {
